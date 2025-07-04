@@ -6,8 +6,8 @@ The SQL script includes data import, transformation, and analysis using T-SQL. A
 - Data cleansing using COALESCE to handle nulls
 - View creation for efficient querying (CREATE VIEW)
 - Aggregation and grouping to analyze:
-  a. Top-performing product categories
-  b. Best and worst sales regions
-  c. Most and least valuable customers
-  d. Shipping cost efficiency by delivery mode
-  e. Return rates by segment
+  -- Top-performing product categories
+  -- Best and worst sales regions
+  -- Most and least valuable customers
+  -- Shipping cost efficiency by delivery mode
+  -- Return rates by segment
